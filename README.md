@@ -1,5 +1,5 @@
-# cryptoclustering
-This is my Module 19 Challenge for my Data Analytics and Visualization Boot Camp.  The objective is to utilze Python and unsupervised learning to determine if the crytocurrences are affected by price changes over 24-hour or 7-day periods.
+# cryptoclustering-analysis
+The objective is to utilze Python and unsupervised learning to determine if the crytocurrencies are affected by price changes over 24-hour or 7-day periods.
 
 ## Table of Contents
 * [General Info](#general-information)
